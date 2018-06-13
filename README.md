@@ -7,17 +7,20 @@ CLIENT EDIT BY: Jager_Bom - Thanks!
 
 READ ME FILE FROM - Thaisen69
 
-AnchorBoat
+# AnchorBoat
 A little anchor script for your boat. FiveM related
 
-Version
+# Version
 1.0 Everything works as intended
 Requirements
+
 You will need to have pNotify installed on your server - https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659
 If you want the sounds also you will need to download the pNotify i put inside here.
-Video
+
+# Video
 https://plays.tv/video/5b20644d05f6e2bf98/anchored-or-not - Video from Jager_Bom
-Install
+
+# Install
 /Like any other resourse
 
 Download the latest version from here.
